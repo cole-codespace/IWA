@@ -86,7 +86,7 @@ if (isEarlier) {
 const firstHolidayTimestamp = Math.min(
   Date.parse(holidays[0].date),
   Date.parse(holidays[1].date),
-  Date.parse(holidays[2].date),
+  Date.parse(holidays[2].date), 
   Date.parse(holidays[3].date),
   Date.parse(holidays[4].date),
   Date.parse(holidays[5].date),
