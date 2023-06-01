@@ -21,7 +21,7 @@ const example1 = {
 	},
 	add,
 	multiply,
-  calculate: internal
+  	calculate: internal
 }
 
 const example2 = {
@@ -32,7 +32,7 @@ const example2 = {
 	},
 	add,
 	multiply,
-  calculate: internal
+  	calculate: internal
 }
 
 console.log(example1.calculate())
